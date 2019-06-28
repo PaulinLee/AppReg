@@ -1,8 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/admin-angular.png)](https://mdbootstrap.com/freebies/angular-admin-dashboard-template-angular-5-material-design/)
-
-# Bootstrap 4 & Material Design - Angular Admin Dashboard Template
-
-Free, responsive Admin Dashboard template containing different styles of dashboards, data presentations, and numerous insightful components. Built with the newest Bootstrap 4, **Angular 5** and Material Design. MIT license – free for personal and commercial use. It's build with MDBootstrap - powerful and free UI Kit, containing **400+** material UI elements, **600+** material icons, **74** CSS animations, SASS files, templates, tutorials and many more.
+Responsive Admin Dashboard template containing different styles of dashboards, data presentations, and numerous insightful components. Built with the newest Bootstrap 4, **Angular 5** and Material Design. MIT license – free for personal and commercial use. It's build with MDBootstrap - powerful and free UI Kit, containing **400+** material UI elements, **600+** material icons, **74** CSS animations, SASS files, templates, tutorials and many more.
 
 ________
 
@@ -109,20 +105,3 @@ Material Design + WordPress Tutorial: https://mdbootstrap.com/wordpress-tutorial
 Other Freebies: https://mdbootstrap.com/freebies/  
 
 Premium Templates: https://mdbootstrap.com/templates/  
-
-
-# Social Media:  
-
-Twitter: https://twitter.com/MDBootstrap  
-
-Facebook: https://www.facebook.com/mdbootstrap  
-
-Pinterest: https://pl.pinterest.com/mdbootstrap 
-
-Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts  
-
-Dribbble: https://dribbble.com/mdbootstrap
-
-LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
-
-# Visit our website: https://mdbootstrap.com/
